@@ -6,7 +6,7 @@
 
 This Function Wish Your Friends,Family Members etc.Bitrhday On Behalf Of You.
 
-`This Function Take One Argument As '*.xlsx' File`
+`This Function Take One Argument As '*.xlsx' File With An Extension And Without Any Type Of Case And Spelling Mistake`
 
 ### In Your xlsx File There Will Be **'Name'** Row,A **'Birthday'**(**DD/MM**) Row ,A 'Year'(**YYYY**) Row And 'Mobile No.'(**with Country Code without '+' And 'Mobile No.' Also Will Be A Whatsapp Number**) Row **Without Any Type Of Spelling Mistake.**
 
@@ -14,17 +14,16 @@ This Function Wish Your Friends,Family Members etc.Bitrhday On Behalf Of You.
 
 ### Example:
 
-![Example](https://github.com/Vedant404ButFound/pyved/blob/master/pyved/static/Example.png)
+![Could't Load Image](https://github.com/Vedant404ButFound/pyved/blob/master/pyved/static/Example.png)
 
 ## *def* **send_noti**(*sub*):
 """
 ### **Send Notification From Wikipedia Artricle**
 """
 
-## *def* **ASCII_Art**(*string*):
-"""
-### Return ASCII Art Of Given String In Argument
-"""
+### Example :
+
+![Could't Load Image](https://github.com/Vedant404ButFound/pyved/blob/master/pyved/static/Notification.png)
 
 ## *def* **create_xlsx**(*birthday_counts*,*filename*='data'):
     """
